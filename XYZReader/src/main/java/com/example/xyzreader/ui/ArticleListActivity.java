@@ -46,7 +46,7 @@ public class ArticleListActivity extends AppCompatActivity implements
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         mFAB = (FloatingActionButton) findViewById(R.id.refresh_fab);
         setSupportActionBar(mToolbar);
-        if (getSupportActionBar()!=null) 
+        if (getSupportActionBar()!=null)
         {
             getSupportActionBar().setDisplayShowTitleEnabled(false);
         }

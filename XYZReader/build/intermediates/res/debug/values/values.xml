@@ -251,9 +251,9 @@
     <dimen name="fab_content_size">24dp</dimen>
     <!-- From: file:/C:/Users/DoctorMondo/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/dimens.xml -->
     <eat-comment/>
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
-    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
     <!-- From: file:/C:/Users/DoctorMondo/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="fab_size_mini">40dp</dimen>
@@ -1567,9 +1567,11 @@
     <item name="android:colorPrimary">@color/theme_primary</item>
         <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
         <item name="android:colorAccent">@color/theme_accent</item>
+
     </style>
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@color/theme_accent</item>
+
     </style>
     <!-- From: file:/C:/Users/DoctorMondo/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
